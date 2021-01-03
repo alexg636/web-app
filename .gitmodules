@@ -1,0 +1,3 @@
+[submodule "web-app-installer"]
+	path = web-app-installer
+	url = https://github.com/alexg636/web-app-installer
